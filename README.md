@@ -1,6 +1,5 @@
-# Name: Amaljosh Maadhav J
-
-# Roll No: 23014023
+### Name: AMALJOSH MAADHAV J
+### Roll No: 23014023
 
 # Experiment 01: Study of basic digital ICs and verification of truth tables for different logic gates realization using Verilog
 
